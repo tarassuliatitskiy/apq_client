@@ -1,0 +1,6 @@
+query showTax {
+  sport(id: 30113) {
+    title
+    id
+  }
+}
